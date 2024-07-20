@@ -1,6 +1,10 @@
 # Source Engine Model Junk File Remover
 
-A Simple VBScript that will make modelers lifes much easier in the Source Engine space, especially when it comes to GMod since recently, GMod now requires addons to remove `sw.vtx` files, since `sw.vtx` files are the same as `dx80.vtx` and `dx90.vtx`. If you have a few models, then that wouldn't be a big deal, but if you had lots of models, like props, NPC models, Playermodels, then it's more of a chore to select the files and delete them, well no more.
+A Simple VBScript that will make modelers lifes much easier in the Source Engine space, especially when it comes to GMod since recently, GMod now requires addons to remove `sw.vtx` files, since `sw.vtx` files are the same as `dx80.vtx` and `dx90.vtx`. 
+
+If you have a few models, then that wouldn't be a big deal, but if you had lots of models, like props, NPC models, Playermodels, then it's more of a chore to select the files and delete them, well no more.
+
+**This will work for any Source Engine Game (Garry's Mod, Left 4 Dead, Left 4 Dead 2, Team Fortress 2) Any game that is on Source 1.**
 
 This will search `dx80.vtx` and `sw.vtx` files and you can choose to move the `dx80.vtx` files, `sw.vtx` files, or both into the Recycling Bin.
 
