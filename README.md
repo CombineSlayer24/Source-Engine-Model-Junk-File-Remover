@@ -37,7 +37,7 @@ You can choose to not delete `dx80.vtx` files and skip to `sw.vtx` files. I woul
   - No, it will only delete `dx80.vtx` and `sw.vtx` files. It should never delete any other files besides those two.
 
 - **It's saying it doesn't detect X files, but there are files that it's suppose to find.**
-  - Make sure the VBScript is inside the directory of the folder that you want to remove the junk files, please reference this [screenshot](https://github.com/CombineSlayer24/Source-Engine-Model-Junk-File-Remover/edit/main/README.md#the-script-has-found-dx80vtx-files)
+  - Make sure the VBScript is inside the directory of the folder that you want to remove the junk files, please reference this [screenshot](https://github.com/CombineSlayer24/Source-Engine-Model-Junk-File-Remover?tab=readme-ov-file#the-script-has-found-dx80vtx-files)
 
 # Conclusion
 Make modding Source Engine games easier and fun by spending less time manually deleting model junk files, thanks and have fun.
