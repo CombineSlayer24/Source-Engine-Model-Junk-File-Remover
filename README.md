@@ -13,6 +13,8 @@ To use the script, place the VBS script into and directory (where your models ar
 
 This is my first time messing with VBScripts, so I tend to make sure that no severe mistakes are made, if you're cautious *I do not blame you*, you can make a backup of your model directory before you attempt to clear, it should at least tell you the files that it finds.
 
+You can choose to not delete `dx80.vtx` files and skip to `sw.vtx` files. I would recommend to delete both since It's 2024, and there's barely any hardware that is running DirectX 8.
+
 ## The script has found `DX80.VTX` files.
 ![image](https://github.com/user-attachments/assets/ca7a41e8-0452-49b6-9eaf-fa52c49938cb)
 ## It will ask you to move them to the Recycling Bin.
